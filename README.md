@@ -1,5 +1,5 @@
 # Its-Mustafa
-<img align="right" alt="working" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNqeWRhNTNuN3dyZWw5NHl4amtuaXg2MjhraWl1anpjc2o1N3FxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xbn8ZbO95YeOJQtJz7/giphy.gif">
+<img align="right" alt="working" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI0OWdobnE1eTI0bzh4Y2VyaWxxOGltdzVpNnUzbno0OW84Zmo0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif">
 <h1 align="center">Hi 👋, I'm Mohammed Mustafa</h1>
 <h3 align="center">A passionate App Developer</h3>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently looking for **opportunities**
 
-- 🌱 I’m currently learning **Android dev**
+- 🌱 I’m currently learning **App development**
 
 - 🤝 I’m looking for help with **my job**
 
-- 💬 Ask me about **IT**
+- 💬 Ask me about **Anything related to Android Development**
 
 - 📫 How to reach me **Mustafamehdi40@gmail.com**
 
